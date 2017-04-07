@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 
 value1=sys.argv[1]
 value2=sys.argv[2]
@@ -58,10 +58,3 @@ Task""" + count + """ """ + key + """: """ + progress[key] + """
 else:
     print "Thank you, have a nice day"
     exit(0)
-
-
-
-
-
-
-

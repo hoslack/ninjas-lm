@@ -1,0 +1,3 @@
+task_1:create a github repo:done:false
+task_2:create a function to generate primes:done:false
+task_3:create a function to manipulate lists:done:false
